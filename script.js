@@ -1,0 +1,1 @@
+console.log("Birth & Death Registration Loaded Successfully");
